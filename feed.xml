@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSHB Randomizer</title>
+    <description>Song randomizer for BHS Harmony Brigades
+</description>
+    <link>http://randomlshb.github.io/</link>
+    <atom:link href="http://randomlshb.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Mar 2017 17:28:39 -0600</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 17:28:39 -0600</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
